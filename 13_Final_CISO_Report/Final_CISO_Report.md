@@ -1,5 +1,4 @@
 # Final CISO Report – Q-Day Cloud Services
-
 ## Executive Summary
 This report presents the current cybersecurity posture, key risks, and strategic roadmap for Q-Day Cloud Services, a cloud data center and managed cloud service provider operating in regulated industries.
 
@@ -23,8 +22,7 @@ Key program components include:
 - Secure cloud architecture aligned with Zero Trust principles
 - Mature incident response and audit readiness
 
-  ## Risk Posture and Top Risks
-
+## Risk Posture and Top Risks
 ### Overall Risk Posture
 Cybersecurity risk is currently assessed as moderate and within approved tolerance levels.
 
@@ -64,7 +62,6 @@ Board reporting focuses on:
 Metrics are reviewed regularly to ensure continued relevance and effectiveness.
 
 ## Strategic Cybersecurity Roadmap
-
 ### Short-Term (0–6 Months)
 - Close open audit and RMF findings
 - Enhance third-party monitoring
@@ -82,7 +79,6 @@ Executive and Board support is requested for:
 - Continued investment in cloud monitoring and detection
 - Enhanced third-party risk oversight
 - Ongoing cybersecurity workforce development
-
 These actions will further reduce enterprise risk and support business growth.
 
 ## Closing Statement
