@@ -1,16 +1,20 @@
 # Enterprise Cybersecurity GRC Capstone
 Cloud Data Center | End-to-End, CISO-Grade Program
 
-Author: Varun Vashisht
-Focus: Cybersecurity Governance, Risk Management & Compliance (GRC)
-Industry: Cloud Service Provider / Cloud Data Center
-Level: Beginner → Executive / CISO Track
+
+Author: Varrun Vashisht
+
+Focus: Cybersecurity Governance, Risk Management & Compliance (GRC) 
+
+Industry: Cloud Service Provider / Cloud Data Center 
+
+Level: Beginner → Executive / CISO Track 
 
 ---
 
 ## Overview
 
-This repository contains a full-scale, industry-grade Cybersecurity GRC program designed for a cloud data center environment (AWS-style architecture).
+This repository contains a full-scale, industry-grade Cybersecurity GRC program designed for a cloud data center environment.
 
 The project demonstrates how cybersecurity is governed, operated, audited, measured, automated, and defended at executive and board level — not just how controls are written.
 
